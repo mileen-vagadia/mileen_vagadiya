@@ -122,14 +122,14 @@
 
 ---
 
-### 🏆 What I've Shipped
+## 🏆 What I've Shipped
 🚦 ATCS    → Real-time traffic control system | 340+ junctions | 3 cities
 🚌 OBU     → On-bus IoT unit | 200 buses | GPS + OBD + Camera
 📊 LDMS    → Live substation monitoring | IEC 104 protocol
 🖥️  PIS     → Public information kiosk display system
 ---
 
-### 💬 My Engineering Philosophy
+## 💬 My Engineering Philosophy
 
 > *"I don't master tools — I master problems.*
 > *The right tool always follows."*
