@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Hey there, I'm Mileen Vagadia 👋</h1>
 
 <p align="center">
